@@ -1,8 +1,12 @@
-<img align="center" src="https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack/blob/main/media/icon.png" alt="tailwindcss-extension-pack logo" width="240px">
-
-<a href="http://badges.mit-license.org/" target="_blank">
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-</a>
+<div align="center">
+  <img width="240" height="240" alt="tailwindcss-extension-pack logo" src="https://raw.githubusercontent.com/andrewmcodes/vscode-tailwindcss-extension-pack/cb59bbefeaabc180c9914b084036816cf53c5d5a/media/icon.svg?token=AEMSALLPL6EVAEMNIL7KCDS7DAR3E" />
+</div>
+<div align="center">
+  <a href="http://badges.mit-license.org/" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="made-for-VSCode"></a>
+</div>
 
 # Tailwind CSS Extension Pack
 
