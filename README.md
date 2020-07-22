@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="240" height="240" alt="tailwindcss-extension-pack logo" src="https://raw.githubusercontent.com/andrewmcodes/vscode-tailwindcss-extension-pack/cb59bbefeaabc180c9914b084036816cf53c5d5a/media/icon.svg?token=AEMSALLPL6EVAEMNIL7KCDS7DAR3E" />
+  <img width="240" height="240" alt="tailwindcss-extension-pack logo" src="media/icon.png" />
 </div>
 <div align="center">
   <a href="http://badges.mit-license.org/" target="_blank">
