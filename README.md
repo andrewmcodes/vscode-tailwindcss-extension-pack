@@ -1,7 +1,4 @@
 <div align="center">
-  <img width="240" height="240" alt="tailwindcss-extension-pack logo" src="media/icon.png" />
-</div>
-<div align="center">
   <a href="http://badges.mit-license.org/" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
