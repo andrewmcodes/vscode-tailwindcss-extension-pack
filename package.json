@@ -1,0 +1,45 @@
+{
+  "name": "tailwindcss-extension-pack",
+  "displayName": "Tailwind CSS Extension Pack",
+  "version": "0.0.1",
+  "description": "A collection of extensions for developing with Tailwind CSS",
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "tailwind",
+    "tailwindui",
+    "tailwindcss",
+    "css",
+    "pack",
+    "packs",
+    "extensions",
+    "vscode"
+  ],
+  "homepage": "https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack",
+  "bugs": {
+    "url": "https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack"
+  },
+  "license": "MIT",
+  "author": "Andrew Mason <andrewmcodes@protonmail.com>",
+  "publisher": "andrewmcodes",
+  "extensionPack": [
+    "austenc.tailwind-docs",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
+    "macieklad.tailwind-sass-syntax",
+    "urbantrout.refactor-css"
+  ],
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "icon": "media/icon.png",
+  "galleryBanner": {
+    "color": "#16BDCA",
+    "theme": "dark"
+  }
+}
