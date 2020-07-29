@@ -6,8 +6,8 @@ on:
 name: "Release Vscode Plugin"
 
 jobs:
-  npmInstall:
-    name: npm install
+  release:
+    name: release
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
