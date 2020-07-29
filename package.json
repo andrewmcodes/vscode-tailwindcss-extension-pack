@@ -1,7 +1,7 @@
 {
   "name": "tailwindcss-extension-pack",
   "displayName": "Tailwind CSS Extension Pack",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A collection of extensions for developing with Tailwind CSS",
   "categories": [
     "Extension Packs"
@@ -16,7 +16,7 @@
     "extensions",
     "vscode"
   ],
-  "homepage": "https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=andrewmcodes.tailwindcss-extension-pack",
   "bugs": {
     "url": "https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack/issues"
   },
@@ -31,8 +31,7 @@
     "austenc.tailwind-docs",
     "bradlc.vscode-tailwindcss",
     "heybourn.headwind",
-    "macieklad.tailwind-sass-syntax",
-    "urbantrout.refactor-css"
+    "macieklad.tailwind-sass-syntax"
   ],
   "engines": {
     "vscode": "^1.47.0"

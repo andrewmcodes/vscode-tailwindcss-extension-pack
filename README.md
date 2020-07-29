@@ -29,10 +29,6 @@ Simple extension that adds Tailwind grammar rules for SCSS and Sass files to all
 
 Headwind is an opinionated Tailwind CSS class sorter for Visual Studio Code. It enforces consistent ordering of classes by parsing your code and reprinting class tags to follow a given order.
 
-### [Refactor CSS](https://marketplace.visualstudio.com/items?itemName=urbantrout.refactor-css)
-
-Helps you identify reoccurring CSS class name combinations in your markup. This is especially useful if you are working with an utility-first CSS framework like Tailwind. Combined with the auto abstraction features in [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss), this extension will help you easily identify duplicate code that code be abstracted into your stylesheets and out of your markup.
-
 ## Contributing
 
 Interested in adding a new extension or debating the merits of an existing one? Refer to the [Contributing guide](CONTRIBUTING.md) on how to get started!
