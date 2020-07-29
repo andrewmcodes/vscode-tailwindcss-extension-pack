@@ -3,17 +3,17 @@ on:
     tags:
       - "*"
 
-name: Deploy Extension
+name: "Release Vscode Plugin"
+
 jobs:
-  deploy:
+  npmInstall:
+    name: npm install
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: Vscode release plugin
+        uses: JCofman/vscodeaction@v2.0.1
+        env:
+          VS_MARKETPLACE_TOKEN: ${{ secrets.VS_MARKETPLACE_TOKEN }}
         with:
-          node-version: 13
-      - name: Publish to Visual Studio Marketplace
-        uses: HaaLeo/publish-vscode-extension@v0
-        with:
-          pat: ${{ secrets.VS_MARKETPLACE_TOKEN }}
-          registryUrl: https://marketplace.visualstudio.com
+          args: publish -p $VS_MARKETPLACE_TOKEN
