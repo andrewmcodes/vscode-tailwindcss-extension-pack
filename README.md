@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/bt-rb" target="_blank" rel="noopener noreferrer">
     <img src="assets/logo.png" width="100px">
   </a>
 </p>
