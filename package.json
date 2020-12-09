@@ -27,6 +27,15 @@
   "license": "MIT",
   "author": "Andrew Mason <andrewmcodes@protonmail.com>",
   "publisher": "andrewmcodes",
+  "scripts": {
+    "release": "standard-version",
+    "deploy": "vsce publish --yarn",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "standard-version": "^9.0.0",
+    "vsce": "^1.81.1"
+  },
   "extensionPack": [
     "austenc.tailwind-docs",
     "bradlc.vscode-tailwindcss",
