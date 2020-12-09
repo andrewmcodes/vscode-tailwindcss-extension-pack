@@ -45,7 +45,7 @@
   "engines": {
     "vscode": "^1.47.0"
   },
-  "icon": "https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack/blob/main/assets/logo.png",
+  "icon": "assets/logo.png",
   "galleryBanner": {
     "color": "#16BDCA",
     "theme": "dark"
