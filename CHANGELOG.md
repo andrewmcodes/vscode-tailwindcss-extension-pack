@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack/compare/v1.1.2...v1.1.3) (2020-12-09)
+
+
+### Bug Fixes
+
+* use absolute icon path ([693a665](https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack/commit/693a665e1efe770c555a04361d1f9e987d26db1b))
+
 ### [1.1.2](https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack/compare/v1.1.1...v1.1.2) (2020-12-09)
 
 ### [1.1.1](https://github.com/andrewmcodes/vscode-tailwindcss-extension-pack/compare/v1.1.0...v1.1.1) (2020-12-09)
